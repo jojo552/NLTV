@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,大连新闻
+http://angtv.cn/test/dltv.php?id=xw
+#EXTINF:-1 ,大连生活
+http://angtv.cn/test/dltv.php?id=sh
 #EXTINF:-1 ,大连文体
 http://angtv.cn/test/dltv.php?id=wt
+#EXTINF:-1 ,大连影视
+http://angtv.cn/test/dltv.php?id=ys
 #EXTINF:-1 ,辽宁都市
 http://218.25.44.2:8899/hls/47/index.m3u8
 #EXTINF:-1 ,辽宁影视
