@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,大连文体
+https://angtv.cn/test/dltv.php?id=dlwt
 #EXTINF:-1 ,辽宁都市
 http://218.25.44.2:8899/hls/47/index.m3u8
 #EXTINF:-1 ,辽宁影视
