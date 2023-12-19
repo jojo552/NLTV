@@ -1,12 +1,4 @@
-#EXTM3U
-#EXTINF:-1 ,大连新闻
-http://angtv.cc/test/dltv.php?id=xw
-#EXTINF:-1 ,大连生活
-http://angtv.cc/test/dltv.php?id=sh
-#EXTINF:-1 ,大连文体
-http://angtv.cc/test/dltv.php?id=wt
-#EXTINF:-1 ,大连影视
-http://angtv.cc/test/dltv.php?id=ys
+
 #EXTINF:-1 ,辽宁都市
 http://36.129.58.53:8008/paiptv/LNDS.m3u8
 #EXTINF:-1 ,辽宁影视
@@ -19,3 +11,11 @@ http://36.129.58.53:8008/paiptv/LNTY.m3u8
 http://36.129.58.53:8008/paiptv/LNGG.m3u8
 #EXTINF:-1 ,辽宁经济
 http://36.129.58.53:8008/paiptv/LNJJ.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="大连新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv1.jpg" group-title="大连",大连新闻综合
+http://wx.groupshare.com.cn/dltv/dlxwzh
+#EXTINF:-1 tvg-id="3" tvg-name="大连生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv2.jpg" group-title="大连",大连生活
+http://wx.groupshare.com.cn/dltv/dlsh
+#EXTINF:-1 tvg-id="4" tvg-name="大连文体" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv4.jpg" group-title="大连",大连文体
+http://wx.groupshare.com.cn/dltv/dlwt
+#EXTINF:-1 tvg-id="6" tvg-name="大连购物" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv7.jpg" group-title="大连",大连购物
+http://wx.groupshare.com.cn/dltv/dlgw
