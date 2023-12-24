@@ -19,10 +19,10 @@ http://175.147.84.36:8888/rtp/232.0.0.168:1234
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV-FINANCE.png" group-title="辽宁",辽宁经济
 http://175.147.84.36:8888/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-id="2" tvg-name="大连新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv1.jpg" group-title="大连",大连新闻综合
-http://live.dltv.cn/tcb3IB5/500/l37t4b0.m3u8
+http://wx.groupshare.com.cn/dltv/dlxwzh
 #EXTINF:-1 tvg-id="3" tvg-name="大连生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv2.jpg" group-title="大连",大连生活
 http://wx.groupshare.com.cn/dltv/dlsh
 #EXTINF:-1 tvg-id="4" tvg-name="大连文体" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv4.jpg" group-title="大连",大连文体
-http://live.dltv.cn/hxT7Fc3/500/43ol4T0.m3u8
+http://wx.groupshare.com.cn/dltv/dlwt
 #EXTINF:-1 tvg-id="6" tvg-name="大连购物" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv7.jpg" group-title="大连",大连购物
 http://wx.groupshare.com.cn/dltv/dlgw
