@@ -4,6 +4,7 @@ http://175.147.84.36:8888/rtp/232.0.0.154:1234
 http://175.147.84.36:8888/rtp/232.0.0.25:1234
 #EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育
 http://175.147.84.36:8888/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育2" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育
 http://36.129.58.53:8008/paiptv/LNTY.m3u8
 #EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV6.png" group-title="辽宁",辽宁生活
 http://175.147.84.36:8888/rtp/232.0.0.150:1234
