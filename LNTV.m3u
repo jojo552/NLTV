@@ -1,22 +1,21 @@
-http://124.92.89.244:6000/rtp/232.0.0.126:1234
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV2.png" group-title="辽宁",辽宁都市
-http://124.92.89.244:6000/rtp/232.0.0.154:1234
+http://175.147.84.36:8888/rtp/232.0.0.154:1234
 #EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV3.png" group-title="辽宁",辽宁影视剧
-http://124.92.89.244:6000/rtp/232.0.0.25:1234
+http://175.147.84.36:8888/rtp/232.0.0.25:1234
 #EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育
-http://124.92.89.244:6000/rtp/232.0.0.164:1234
+http://175.147.84.36:8888/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV6.png" group-title="辽宁",辽宁生活
-http://124.92.89.244:6000/rtp/232.0.0.150:1234
+http://175.147.84.36:8888/rtp/232.0.0.150:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="辽宁",辽宁教育青少
-http://124.92.89.244:6000/rtp/232.0.0.241:1234
+http://175.147.84.36:8888/rtp/232.0.0.241:1234
 #EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV8.png" group-title="辽宁",辽宁北方
-http://124.92.89.244:6000/rtp/232.0.0.151:1234
+http://175.147.84.36:8888/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="辽宁",辽宁宜佳购物
-http://124.92.89.244:6000/rtp/232.0.0.30:1234
+http://175.147.84.36:8888/rtp/232.0.0.30:1234
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV7.png" group-title="辽宁",辽宁公共
-http://124.92.89.244:6000/rtp/232.0.0.168:1234
+http://175.147.84.36:8888/rtp/232.0.0.168:1234
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV-FINANCE.png" group-title="辽宁",辽宁经济
-http://124.92.89.244:6000/rtp/232.0.0.156:1234
+http://175.147.84.36:8888/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-id="2" tvg-name="大连新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv1.jpg" group-title="大连",大连新闻综合
 http://wx.groupshare.com.cn/dltv/dlxwzh
 #EXTINF:-1 tvg-id="3" tvg-name="大连生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv2.jpg" group-title="大连",大连生活
