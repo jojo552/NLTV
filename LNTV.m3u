@@ -1,21 +1,17 @@
-#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV2.png" group-title="辽宁",辽宁都市
-http://113.232.129.155:4022/rtp/232.0.0.154:1234
-#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV3.png" group-title="辽宁",辽宁影视剧
-http://113.232.129.155:4022/rtp/232.0.0.25:1234
-#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育
-http://113.232.129.155:4022/rtp/232.0.0.164:1234
-#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV6.png" group-title="辽宁",辽宁生活
-http://113.232.129.155:4022/rtp/232.0.0.150:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="辽宁",辽宁教育青少
-http://113.232.129.155:4022/rtp/232.0.0.241:1234
-#EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV8.png" group-title="辽宁",辽宁北方
-http://113.232.129.155:4022/rtp/232.0.0.151:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="辽宁",辽宁宜佳购物
-http://113.232.129.155:4022/rtp/232.0.0.30:1234
-#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV7.png" group-title="辽宁",辽宁公共
-http://113.232.129.155:4022/rtp/232.0.0.168:1234
-#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://60.16.13.194:8888/tb1/qt/LNTV-FINANCE.png" group-title="辽宁",辽宁经济
-http://113.232.129.155:4022/rtp/232.0.0.156:1234
+#EXTINF:-1,辽宁北方
+http://42.176.154.142:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,辽宁都市
+http://42.176.154.142:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,辽宁公共
+http://42.176.154.142:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,辽宁经济
+http://42.176.154.142:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,辽宁生活
+http://42.176.154.142:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,辽宁体育
+http://42.176.154.142:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,辽宁影视剧
+http://42.176.154.142:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="大连新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv1.jpg" group-title="大连",大连新闻综合
 http://wx.groupshare.com.cn/dltv/dlxwzh
 #EXTINF:-1 tvg-id="3" tvg-name="大连生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv2.jpg" group-title="大连",大连生活
