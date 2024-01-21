@@ -1,17 +1,17 @@
 #EXTINF:-1,辽宁北方
-http://42.176.154.142:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.114.35.209:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,辽宁都市
-http://42.176.154.142:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.114.35.209:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,辽宁公共
-http://42.176.154.142:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.114.35.209:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,辽宁经济
-http://42.176.154.142:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.114.35.209:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,辽宁生活
-http://42.176.154.142:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.114.35.209:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,辽宁体育
-http://42.176.154.142:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.114.35.209:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,辽宁影视剧
-http://42.176.154.142:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.114.35.209:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="大连新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv1.jpg" group-title="大连",大连新闻综合
 http://wx.groupshare.com.cn/dltv/dlxwzh
 #EXTINF:-1 tvg-id="3" tvg-name="大连生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv2.jpg" group-title="大连",大连生活
