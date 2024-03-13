@@ -9,7 +9,7 @@ http://119.114.35.209:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1,辽宁生活
 http://119.114.35.209:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,辽宁体育
-http://119.114.35.209:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://59.44.192.82:65000/hls/24/index.m3u8?key=tvbox6_com&playlive=1&authid=0
 #EXTINF:-1,辽宁影视剧
 http://119.114.35.209:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="大连新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/dltv1.jpg" group-title="大连",大连新闻综合
